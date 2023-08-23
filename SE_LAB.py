@@ -82,6 +82,5 @@ def main():
         print("No flights found.")
 
 if __name__ == "__main__":
-    print("AKSHAY NEGI\nE22CSEU0264")
     main()
 
